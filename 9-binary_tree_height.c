@@ -5,7 +5,7 @@
  * @tree: tree of data
  *
  * Return: measures the height or 0
- * 			If tree is NULL
+ *				If tree is NULL
  */
 size_t binary_tree_height(const binary_tree_t *tree)
 {
